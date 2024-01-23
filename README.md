@@ -7,3 +7,4 @@
   - Sentence Smash [Challenge](https://www.codewars.com/kata/53dc23c68a0c93699800041d) - [Solved](https://github.com/ariear/2024-wpu-coding-challenge/blob/main/4-sentenceSmash.py)
   - Will you make it? [Challenge](https://www.codewars.com/kata/5861d28f124b35723e00005e) - [Solved](https://github.com/ariear/2024-wpu-coding-challenge/blob/main/5-willYouMakeIt.py)
   - DNA to RNA Conversion [Challenge](https://www.codewars.com/kata/5556282156230d0e5e000089) - [Solved](https://github.com/ariear/2024-wpu-coding-challenge/blob/main/6-DNAtoRNAconversion.py)
+  - Count by X [Challenge](https://www.codewars.com/kata/5513795bd3fafb56c200049e) - [Solved](https://github.com/ariear/2024-wpu-coding-challenge/blob/main/7-countByX.py)
