@@ -10,3 +10,5 @@
   - Count by X [Challenge](https://www.codewars.com/kata/5513795bd3fafb56c200049e) - [Solved](https://github.com/ariear/2024-wpu-coding-challenge/blob/main/7-countByX.py)
   - If you can't sleep, just count sheep!! [Challenge](https://www.codewars.com/kata/5b077ebdaf15be5c7f000077) - [Solved](https://github.com/ariear/2024-wpu-coding-challenge/blob/main/8-ifYouCantSleep.py)
   - Find Maximum and Minimum Values of a List [Challenge](https://www.codewars.com/kata/577a98a6ae28071780000989) - [Solved](https://github.com/ariear/2024-wpu-coding-challenge/blob/main/9-maxmin.py)
+  - Convert a string to an array [Challenge](https://www.codewars.com/kata/57e76bc428d6fbc2d500036d) - [Solved](https://github.com/ariear/2024-wpu-coding-challenge/blob/main/10-stringToArray.py)
+  - Rock Paper Scissors! [Challenge](https://www.codewars.com/kata/5672a98bdbdd995fad00000f) - [Solved](https://github.com/ariear/2024-wpu-coding-challenge/blob/main/11-rps.py)
