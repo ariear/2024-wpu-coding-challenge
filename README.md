@@ -13,3 +13,4 @@
   - Convert a string to an array [Challenge](https://www.codewars.com/kata/57e76bc428d6fbc2d500036d) - [Solved](https://github.com/ariear/2024-wpu-coding-challenge/blob/main/10-stringToArray.py)
   - Rock Paper Scissors! [Challenge](https://www.codewars.com/kata/5672a98bdbdd995fad00000f) - [Solved](https://github.com/ariear/2024-wpu-coding-challenge/blob/main/11-rps.py)
   - Array plus array [Challenge](https://www.codewars.com/kata/5a2be17aee1aaefe2a000151) - [Solved](https://github.com/ariear/2024-wpu-coding-challenge/blob/main/12-arrPlusArr.py)
+  - Total amount of points [Challenge](https://www.codewars.com/kata/5bb904724c47249b10000131) - [Solved](https://github.com/ariear/2024-wpu-coding-challenge/blob/main/13-totalAmount.py)
