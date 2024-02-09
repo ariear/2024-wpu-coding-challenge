@@ -14,3 +14,8 @@
   - Rock Paper Scissors! [Challenge](https://www.codewars.com/kata/5672a98bdbdd995fad00000f) - [Solved](https://github.com/ariear/2024-wpu-coding-challenge/blob/main/11-rps.py)
   - Array plus array [Challenge](https://www.codewars.com/kata/5a2be17aee1aaefe2a000151) - [Solved](https://github.com/ariear/2024-wpu-coding-challenge/blob/main/12-arrPlusArr.py)
   - Total amount of points [Challenge](https://www.codewars.com/kata/5bb904724c47249b10000131) - [Solved](https://github.com/ariear/2024-wpu-coding-challenge/blob/main/13-totalAmount.py)
+  - Grasshopper - Grade book [Challenge](https://www.codewars.com/kata/55cbd4ba903825f7970000f5) - [Solved](https://github.com/ariear/2024-wpu-coding-challenge/blob/main/14-getGrade.py)
+  - Sum without highest and lowest number [Challenge](https://www.codewars.com/kata/576b93db1129fcf2200001e6) - [Solved](https://github.com/ariear/2024-wpu-coding-challenge/blob/main/15-sumArray.py)
+  - Get the mean of an array [Challenge](https://www.codewars.com/kata/563e320cee5dddcf77000158) - [Solved](https://github.com/ariear/2024-wpu-coding-challenge/blob/main/16-getAverage.dart)
+  - Area or Perimeter [Challenge](https://www.codewars.com/kata/5ab6538b379d20ad880000ab) - [Solved](https://github.com/ariear/2024-wpu-coding-challenge/blob/main/17-areaOrPerimeter.py)
+  - Grasshopper - Personalized Message [Challenge](https://www.codewars.com/kata/5772da22b89313a4d50012f7) - [Solved](https://github.com/ariear/2024-wpu-coding-challenge/blob/main/18-greet.py)
