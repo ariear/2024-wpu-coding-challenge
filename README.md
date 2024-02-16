@@ -19,3 +19,5 @@
   - Get the mean of an array [Challenge](https://www.codewars.com/kata/563e320cee5dddcf77000158) - [Solved](https://github.com/ariear/2024-wpu-coding-challenge/blob/main/16-getAverage.dart)
   - Area or Perimeter [Challenge](https://www.codewars.com/kata/5ab6538b379d20ad880000ab) - [Solved](https://github.com/ariear/2024-wpu-coding-challenge/blob/main/17-areaOrPerimeter.py)
   - Grasshopper - Personalized Message [Challenge](https://www.codewars.com/kata/5772da22b89313a4d50012f7) - [Solved](https://github.com/ariear/2024-wpu-coding-challenge/blob/main/18-greet.py)
+  - Sum Mixed Array [Challenge](https://www.codewars.com/kata/57eaeb9578748ff92a000009) - [Solved](https://github.com/ariear/2024-wpu-coding-challenge/blob/main/19-sumMixArr.py)
+  - The Feast of Many Beasts [Challenge](https://www.codewars.com/kata/5aa736a455f906981800360d) - [Solved](https://github.com/ariear/2024-wpu-coding-challenge/blob/main/20-feast.py)
