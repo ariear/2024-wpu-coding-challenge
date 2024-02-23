@@ -1,6 +1,5 @@
 # WPU Coding Challenge 2024 🐍
 
-
   - Reduce But Grow [Challenge](https://www.codewars.com/kata/57f780909f7e8e3183000078) - [Solved](https://github.com/ariear/2024-wpu-coding-challenge/blob/main/1-reduceButGrow.py)
   - Reversed sequence [Challenge](https://www.codewars.com/kata/5a00e05cc374cb34d100000d) - [Solved](https://github.com/ariear/2024-wpu-coding-challenge/blob/main/2-reversedSequence.py)
   - Is he gonna survive? [Challenge](https://www.codewars.com/kata/59ca8246d751df55cc00014c) - [Solved](https://github.com/ariear/2024-wpu-coding-challenge/blob/main/3-isHeGonnaSurvive.py)
@@ -21,3 +20,4 @@
   - Grasshopper - Personalized Message [Challenge](https://www.codewars.com/kata/5772da22b89313a4d50012f7) - [Solved](https://github.com/ariear/2024-wpu-coding-challenge/blob/main/18-greet.py)
   - Sum Mixed Array [Challenge](https://www.codewars.com/kata/57eaeb9578748ff92a000009) - [Solved](https://github.com/ariear/2024-wpu-coding-challenge/blob/main/19-sumMixArr.py)
   - The Feast of Many Beasts [Challenge](https://www.codewars.com/kata/5aa736a455f906981800360d) - [Solved](https://github.com/ariear/2024-wpu-coding-challenge/blob/main/20-feast.py)
+  - Transportation on vacation [Challenge](https://www.codewars.com/kata/568d0dd208ee69389d000016) - [Solved](https://github.com/ariear/2024-wpu-coding-challenge/blob/main/21-rentalCarCost.py)
