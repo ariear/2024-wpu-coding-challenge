@@ -21,3 +21,6 @@
   - Sum Mixed Array [Challenge](https://www.codewars.com/kata/57eaeb9578748ff92a000009) - [Solved](https://github.com/ariear/2024-wpu-coding-challenge/blob/main/19-sumMixArr.py)
   - The Feast of Many Beasts [Challenge](https://www.codewars.com/kata/5aa736a455f906981800360d) - [Solved](https://github.com/ariear/2024-wpu-coding-challenge/blob/main/20-feast.py)
   - Transportation on vacation [Challenge](https://www.codewars.com/kata/568d0dd208ee69389d000016) - [Solved](https://github.com/ariear/2024-wpu-coding-challenge/blob/main/21-rentalCarCost.py)
+  - Remove exclamation marks [Challenge](https://www.codewars.com/kata/57a0885cbb9944e24c00008e) - [Solved](https://github.com/ariear/2024-wpu-coding-challenge/blob/main/22-removeExclamationMarks.py)
+  - Count the Monkeys! [Challenge](https://www.codewars.com/kata/56f69d9f9400f508fb000ba7) - [Solved](https://github.com/ariear/2024-wpu-coding-challenge/blob/main/23-monkeyCount.py)
+  - Quarter of the year [Challenge](https://www.codewars.com/kata/5ce9c1000bab0b001134f5af) - [Solved](https://github.com/ariear/2024-wpu-coding-challenge/blob/main/24-quarterOf.py)
