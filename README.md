@@ -24,3 +24,8 @@
   - Remove exclamation marks [Challenge](https://www.codewars.com/kata/57a0885cbb9944e24c00008e) - [Solved](https://github.com/ariear/2024-wpu-coding-challenge/blob/main/22-removeExclamationMarks.py)
   - Count the Monkeys! [Challenge](https://www.codewars.com/kata/56f69d9f9400f508fb000ba7) - [Solved](https://github.com/ariear/2024-wpu-coding-challenge/blob/main/23-monkeyCount.py)
   - Quarter of the year [Challenge](https://www.codewars.com/kata/5ce9c1000bab0b001134f5af) - [Solved](https://github.com/ariear/2024-wpu-coding-challenge/blob/main/24-quarterOf.py)
+  - Double Char [Challenge](https://www.codewars.com/kata/56b1f01c247c01db92000076/) - [Solved](https://github.com/ariear/2024-wpu-coding-challenge/blob/main/25-doubleChar.py)
+  - Thinkful - Logic Drills: Traffic light [Challenge](https://www.codewars.com/kata/58649884a1659ed6cb000072) - [Solved](https://github.com/ariear/2024-wpu-coding-challenge/blob/main/26-updateLight.py)
+  - L1: Set Alarm [Challenge](https://www.codewars.com/kata/568dcc3c7f12767a62000038) - [Solved](https://github.com/ariear/2024-wpu-coding-challenge/blob/main/27-setAlarm.py)
+  - Do I get a bonus? [Challenge](https://www.codewars.com/kata/56f6ad906b88de513f000d96) - [Solved](https://github.com/ariear/2024-wpu-coding-challenge/blob/main/28-bonusTime.py)
+  - Removing Elements [Challenge](https://www.codewars.com/kata/5769b3802ae6f8e4890009d2) - [Solved](https://github.com/ariear/2024-wpu-coding-challenge/blob/main/29-removeEveryOther.py)
