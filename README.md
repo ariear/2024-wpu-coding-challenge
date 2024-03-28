@@ -29,3 +29,4 @@
   - L1: Set Alarm [Challenge](https://www.codewars.com/kata/568dcc3c7f12767a62000038) - [Solved](https://github.com/ariear/2024-wpu-coding-challenge/blob/main/27-setAlarm.py)
   - Do I get a bonus? [Challenge](https://www.codewars.com/kata/56f6ad906b88de513f000d96) - [Solved](https://github.com/ariear/2024-wpu-coding-challenge/blob/main/28-bonusTime.py)
   - Removing Elements [Challenge](https://www.codewars.com/kata/5769b3802ae6f8e4890009d2) - [Solved](https://github.com/ariear/2024-wpu-coding-challenge/blob/main/29-removeEveryOther.py)
+  - Will there be enough space? [Challenge](https://www.codewars.com/kata/5875b200d520904a04000003) - [Solved](https://github.com/ariear/2024-wpu-coding-challenge/blob/main/30-enough.py)
