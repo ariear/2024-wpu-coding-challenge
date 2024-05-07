@@ -38,3 +38,5 @@
   - Count the Hoop [Challenge](https://www.codewars.com/kata/55cb632c1a5d7b3ad0000145) - [Solved](https://github.com/ariear/2024-wpu-coding-challenge/blob/main/36-hoopCount.py)
   - Get Planet Name By ID [Challenge](https://www.codewars.com/kata/515e188a311df01cba000003) - [Solved](https://github.com/ariear/2024-wpu-coding-challenge/blob/main/37-getPlanetName.py)
   - All Star Code Challenge #18 [Challenge](https://www.codewars.com/kata/5865918c6b569962950002a1) - [Solved](https://github.com/ariear/2024-wpu-coding-challenge/blob/main/38-strCount.py)
+  - Volume of a Cuboid [Challenge](https://www.codewars.com/kata/58261acb22be6e2ed800003a) - [Solved](https://github.com/ariear/2024-wpu-coding-challenge/blob/main/39-getVolumeOfCuboid.py)
+  - Switch it Up! [Challenge](https://www.codewars.com/kata/5808dcb8f0ed42ae34000031) - [Solved](https://github.com/ariear/2024-wpu-coding-challenge/blob/main/40-switchItUp.py)
